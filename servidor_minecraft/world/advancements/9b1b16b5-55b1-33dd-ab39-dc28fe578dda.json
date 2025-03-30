@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-30 22:38:18 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/unica": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
@@ -422,6 +428,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-30 22:38:18 +0000"
     },
     "done": true
   },
@@ -1070,6 +1082,12 @@
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-30 22:38:18 +0000"
     },
     "done": true
   },
