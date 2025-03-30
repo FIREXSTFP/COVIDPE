@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/vintorez_stock": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-03-30 20:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-26 19:12:07 +0000"
@@ -1793,6 +1799,12 @@
   "additionalguns:recipes/additionalguns/pp_19": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-30 20:54:29 +0000"
     },
     "done": true
   },
