@@ -6658,3 +6658,37 @@ Caused by: java.util.ConcurrentModificationException
 [30Mar2025 20:35:53.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HarukoUzumaki> levantameeeee
 [30Mar2025 20:36:50.846] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['mr.gatito'/29995, l='ServerLevel[world]', x=-412.08, y=43.50, z=-115.93]
 [30Mar2025 20:37:00.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mr.gatito is bleeding...
+[30Mar2025 20:37:45.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mr.gatito is bleeding...
+[30Mar2025 20:38:35.963] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: mr.gatito lost connection: Disconnected
+[30Mar2025 20:38:35.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mr.gatito left the game
+[30Mar2025 20:39:23.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crosx22 is bleeding...
+[30Mar2025 20:42:49.627] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37066, l='ServerLevel[world]', x=-376.45, y=63.32, z=-120.41], dimensionLocationPath overworld
+[30Mar2025 20:42:49.627] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37066, l='ServerLevel[world]', x=-376.45, y=63.32, z=-120.41] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a2c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba2]
+[30Mar2025 20:42:57.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HarukoUzumaki> porque hay un esqueleto?
+[30Mar2025 20:44:29.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gxst8v7_2u8 is bleeding...
+[30Mar2025 20:44:34.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gxst8v7_2u8 was decimated by HarukoUzumaki
+[30Mar2025 20:44:34.984] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['gxst8v7_2u8'/20090, l='ServerLevel[world]', x=-376.00, y=42.00, z=-121.57]
+[30Mar2025 20:44:36.159] [Server thread/INFO] [tac/]: PENDING
+[30Mar2025 20:45:02.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33036f5d
+[30Mar2025 20:45:02.498] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: trox_xjunior[/127.255.96.117:49307] logged in with entity id 37346 at (-394.8465279784817, 78.0, -102.47978733771527)
+[30Mar2025 20:45:02.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: trox_xjunior joined the game
+[30Mar2025 20:45:02.500] [Server thread/INFO] [tac/]: PENDING
+[30Mar2025 20:45:02.550] [Server thread/INFO] [Waila/]: Syncing config to trox_xjunior (f8f15407-f960-3a6f-b533-1f14b9fbd845)
+[30Mar2025 20:45:02.553] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayerEntity['trox_xjunior'/37346, l='ServerLevel[world]', x=-394.85, y=78.00, z=-102.48], dimensionLocationPath overworld
+[30Mar2025 20:45:02.553] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['trox_xjunior'/37346, l='ServerLevel[world]', x=-394.85, y=78.00, z=-102.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a2c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba2]
+[30Mar2025 20:45:37.491] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 62
+[30Mar2025 20:45:37.491] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 62
+[30Mar2025 20:45:37.491] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 60
+[30Mar2025 20:45:37.491] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 60
+[30Mar2025 20:45:51.396] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@618f1c2
+[30Mar2025 20:45:51.402] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Elcovid19[/127.84.251.109:33327] logged in with entity id 37426 at (-397.69999998807907, 43.0, -120.79390013834842)
+[30Mar2025 20:45:51.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
+[30Mar2025 20:45:51.409] [Server thread/INFO] [tac/]: PENDING
+[30Mar2025 20:45:51.461] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
+[30Mar2025 20:45:51.463] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayerEntity['Elcovid19'/37426, l='ServerLevel[world]', x=-397.70, y=43.00, z=-120.79], dimensionLocationPath overworld
+[30Mar2025 20:45:51.463] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['Elcovid19'/37426, l='ServerLevel[world]', x=-397.70, y=43.00, z=-120.79] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a2c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ba2, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@91e2]
+[30Mar2025 20:46:22.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[30Mar2025 20:46:27.488] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 60
+[30Mar2025 20:46:27.488] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 60
+[30Mar2025 20:47:17.486] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 60
+[30Mar2025 20:47:17.486] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 60
