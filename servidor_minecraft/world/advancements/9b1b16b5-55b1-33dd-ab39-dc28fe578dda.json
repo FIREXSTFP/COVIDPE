@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 21:57:41 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-30 21:55:54 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
@@ -470,6 +482,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-30 20:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-30 21:48:40 +0000"
     },
     "done": true
   },
@@ -896,6 +914,12 @@
   "additionalguns:recipes/additionalguns/m4a1s": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 21:57:41 +0000"
     },
     "done": true
   },
