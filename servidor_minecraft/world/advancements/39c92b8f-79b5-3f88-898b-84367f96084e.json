@@ -637,6 +637,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-03-30 20:09:13 +0000",
       "minecraft:zombie": "2025-03-28 00:01:14 +0000"
     },
     "done": false
