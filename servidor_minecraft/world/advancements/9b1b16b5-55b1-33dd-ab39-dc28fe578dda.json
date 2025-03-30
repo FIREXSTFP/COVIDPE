@@ -101,15 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-30 20:59:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_planks": "2025-03-30 20:58:53 +0000"
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -146,6 +152,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -275,19 +293,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-03-30 21:27:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-30 21:05:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-03-30 21:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m1014": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
     },
@@ -299,21 +323,15 @@
     },
     "done": true
   },
-  "additionalguns:recipes/additionalguns/m1014": {
+  "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
-      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+      "has_planks": "2025-03-30 20:59:34 +0000"
     },
     "done": true
   },
   "additionalguns:recipes/additionalguns/holo_scope": {
     "criteria": {
       "has_redstone": "2025-03-30 21:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-03-30 20:59:34 +0000"
     },
     "done": true
   },
@@ -365,15 +383,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
-      "has_gravel": "2025-03-30 21:42:04 +0000"
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
   "additionalguns:recipes/additionalguns/mp7": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-03-30 21:42:04 +0000"
     },
     "done": true
   },
@@ -425,15 +449,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
-      "iron_chestplate": "2025-03-30 21:55:54 +0000"
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-30 21:55:54 +0000"
     },
     "done": true
   },
@@ -473,15 +503,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_andesite": "2025-03-30 21:27:24 +0000"
+      "has_water_bucket": "2025-03-30 22:13:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-30 20:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-30 21:27:24 +0000"
     },
     "done": true
   },
@@ -497,9 +533,9 @@
     },
     "done": true
   },
-  "additionalguns:recipes/additionalguns/kobra": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_redstone": "2025-03-30 21:36:02 +0000"
+      "has_stick": "2025-03-30 20:59:00 +0000"
     },
     "done": true
   },
@@ -509,15 +545,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "additionalguns:recipes/additionalguns/kobra": {
     "criteria": {
-      "has_stick": "2025-03-30 20:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-30 21:05:50 +0000"
+      "has_redstone": "2025-03-30 21:36:02 +0000"
     },
     "done": true
   },
@@ -527,15 +557,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_stone_bricks": "2025-03-30 21:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-03-30 21:36:02 +0000"
+      "has_cobblestone": "2025-03-30 21:05:50 +0000"
     },
     "done": true
   },
@@ -545,9 +569,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-30 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-30 21:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -557,15 +599,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-03-30 21:31:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-30 21:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 21:31:15 +0000"
     },
     "done": true
   },
@@ -581,15 +623,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
     },
     "done": true
   },
@@ -611,15 +653,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2025-03-30 20:58:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-03-30 20:52:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-03-30 20:58:11 +0000"
     },
     "done": true
   },
@@ -653,15 +695,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-03-30 21:36:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-30 21:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-30 21:36:02 +0000"
     },
     "done": true
   },
@@ -725,15 +767,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-03-30 20:59:34 +0000"
-    },
-    "done": true
-  },
   "additionalguns:recipes/additionalguns/over_under": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-30 20:59:34 +0000"
     },
     "done": true
   },
@@ -791,15 +833,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-03-30 21:42:04 +0000"
-    },
-    "done": true
-  },
   "additionalguns:recipes/additionalguns/vector": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-03-30 21:42:04 +0000"
     },
     "done": true
   },
@@ -833,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-30 20:59:00 +0000"
@@ -848,6 +896,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -869,15 +923,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-03-30 20:59:34 +0000"
-    },
-    "done": true
-  },
   "additionalguns:recipes/additionalguns/mammoth": {
     "criteria": {
       "has_oak_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-30 20:59:34 +0000"
     },
     "done": true
   },
@@ -926,6 +980,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-03-30 21:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -1001,15 +1061,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_stone": "2025-03-30 21:27:40 +0000"
+      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
     },
     "done": true
   },
@@ -1019,9 +1079,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-03-30 21:27:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-30 20:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -1103,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-03-30 20:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -1112,12 +1190,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-30 21:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2025-03-30 20:59:00 +0000"
     },
     "done": true
   },
@@ -1139,15 +1211,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-03-30 21:31:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-30 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 21:31:15 +0000"
     },
     "done": true
   },
@@ -1175,21 +1247,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-30 22:00:48 +0000"
-    },
-    "done": true
-  },
   "additionalguns:recipes/additionalguns/custom_mac": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-30 22:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
@@ -1248,15 +1326,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-03-30 21:05:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 21:05:50 +0000"
     },
     "done": true
   },
@@ -1308,15 +1386,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-30 21:23:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 20:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-30 21:23:50 +0000"
     },
     "done": true
   },
@@ -1326,15 +1404,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-03-30 21:40:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-30 21:40:55 +0000"
     },
     "done": true
   },
@@ -1344,9 +1422,9 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/heavy_rifle": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+      "has_auto_smelting_upgrade": "2025-03-30 20:58:11 +0000"
     },
     "done": true
   },
@@ -1356,15 +1434,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/short_scope": {
+  "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
-      "has_redstone": "2025-03-30 21:36:02 +0000"
+      "has_iron_ingot": "2025-03-30 21:33:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "cgm:recipes/cgm/short_scope": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-03-30 20:58:11 +0000"
+      "has_redstone": "2025-03-30 21:36:02 +0000"
     },
     "done": true
   },
@@ -1401,6 +1479,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-30 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 22:12:59 +0000"
     },
     "done": true
   },
