@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 20:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-30 00:52:58 +0000"
@@ -596,6 +602,12 @@
   "additionalguns:recipes/additionalguns/kobra": {
     "criteria": {
       "has_redstone": "2025-03-29 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-30 20:24:01 +0000"
     },
     "done": true
   },

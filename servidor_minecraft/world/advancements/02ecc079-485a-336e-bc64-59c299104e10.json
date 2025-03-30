@@ -1352,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 20:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-30 00:33:01 +0000"
@@ -1518,6 +1524,7 @@
     "criteria": {
       "cooked_beef": "2025-03-30 19:52:03 +0000",
       "apple": "2025-03-26 20:00:29 +0000",
+      "golden_apple": "2025-03-30 20:13:30 +0000",
       "golden_carrot": "2025-03-30 00:36:35 +0000",
       "carrot": "2025-03-27 23:41:10 +0000"
     },
