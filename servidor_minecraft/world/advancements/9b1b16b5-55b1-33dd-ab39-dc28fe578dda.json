@@ -150,6 +150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-30 20:59:34 +0000"
@@ -192,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-30 21:05:50 +0000"
@@ -228,9 +240,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-30 21:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
     },
     "done": true
   },
@@ -261,6 +285,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-30 21:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
     },
     "done": true
   },
@@ -381,6 +411,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-03-30 20:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 21:10:25 +0000"
     },
     "done": true
   },
