@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m16a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-29 23:04:19 +0000"
@@ -407,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "tac:recipes/tac/module_item": {
     "criteria": {
       "has_diamond": "2025-03-30 00:25:00 +0000"
@@ -419,6 +431,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-29 23:04:19 +0000"
@@ -428,6 +446,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-29 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
@@ -452,6 +482,12 @@
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-03-29 22:06:24 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
@@ -500,6 +536,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-30 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-30 19:26:13 +0000"
     },
     "done": true
   },
@@ -800,6 +842,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-29 23:46:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
@@ -1109,6 +1157,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-29 22:06:06 +0000"
@@ -1169,6 +1223,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a4": {
     "criteria": {
       "has_iron_ingot": "2025-03-29 23:04:19 +0000"
@@ -1214,6 +1274,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-03-29 23:50:15 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
@@ -1328,6 +1394,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-03-29 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
@@ -1563,6 +1635,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-30 00:25:00 +0000"
@@ -1572,6 +1650,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-03-29 22:30:17 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 19:30:13 +0000"
     },
     "done": true
   },
