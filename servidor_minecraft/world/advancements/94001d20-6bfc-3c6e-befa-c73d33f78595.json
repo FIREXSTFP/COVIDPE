@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 23:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-30 22:25:49 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 23:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-30 23:52:31 +0000"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 23:17:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -456,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
   "tac:recipes/tac/module_item": {
     "criteria": {
       "has_diamond": "2025-03-30 23:05:25 +0000"
@@ -465,6 +489,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-03-30 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -483,6 +513,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 23:17:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -513,6 +555,12 @@
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-03-30 22:25:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -732,6 +780,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-30 23:54:08 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aug": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 23:17:46 +0000"
@@ -798,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-31 00:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-30 23:05:18 +0000"
@@ -837,6 +897,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 22:32:31 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -981,6 +1047,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-03-30 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-30 23:52:56 +0000"
     },
     "done": true
   },
@@ -1158,6 +1230,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-30 22:24:54 +0000"
@@ -1218,6 +1296,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a4": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 23:17:46 +0000"
@@ -1257,6 +1341,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-30 23:05:18 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
@@ -1380,6 +1470,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-30 22:22:54 +0000",
@@ -1459,6 +1555,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-30 23:50:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 23:54:08 +0000"
     },
     "done": true
   },
@@ -1594,6 +1696,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-30 23:05:25 +0000"
@@ -1603,6 +1711,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-03-30 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 23:57:30 +0000"
     },
     "done": true
   },
