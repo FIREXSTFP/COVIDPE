@@ -1820,8 +1820,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-26 16:42:25 +0000",
+      "minecraft:mountains": "2025-03-31 19:33:41 +0000",
       "minecraft:taiga": "2025-03-31 19:07:21 +0000",
       "minecraft:birch_forest": "2025-03-26 18:32:14 +0000",
+      "minecraft:dark_forest": "2025-03-31 19:36:16 +0000",
       "minecraft:river": "2025-03-26 18:30:41 +0000",
       "minecraft:birch_forest_hills": "2025-03-28 16:29:04 +0000",
       "minecraft:wooded_hills": "2025-03-26 18:25:31 +0000",
