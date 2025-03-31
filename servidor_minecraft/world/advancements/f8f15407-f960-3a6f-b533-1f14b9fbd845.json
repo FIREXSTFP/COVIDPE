@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-03-31 16:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:49:14 +0000"
@@ -1218,6 +1224,12 @@
   "tac:recipes/tac/workbench": {
     "criteria": {
       "has_iron": "2025-03-28 17:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-31 16:40:29 +0000"
     },
     "done": true
   },
