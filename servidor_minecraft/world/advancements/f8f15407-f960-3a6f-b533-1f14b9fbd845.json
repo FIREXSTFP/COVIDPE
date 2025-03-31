@@ -379,6 +379,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-31 18:58:10 +0000",
       "bread": "2025-03-30 01:04:35 +0000",
       "cooked_salmon": "2025-03-26 19:31:39 +0000",
       "carrot": "2025-03-28 16:51:37 +0000"
