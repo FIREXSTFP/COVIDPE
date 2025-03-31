@@ -1316,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gunpowder": "2025-03-26 19:48:41 +0000"
@@ -2346,9 +2352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-26 19:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-03-31 20:26:15 +0000"
     },
     "done": true
   },
