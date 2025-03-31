@@ -380,6 +380,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-03-31 18:58:10 +0000",
+      "apple": "2025-03-31 19:08:22 +0000",
       "bread": "2025-03-30 01:04:35 +0000",
       "cooked_salmon": "2025-03-26 19:31:39 +0000",
       "carrot": "2025-03-28 16:51:37 +0000"
@@ -1819,6 +1820,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-26 16:42:25 +0000",
+      "minecraft:taiga": "2025-03-31 19:07:21 +0000",
       "minecraft:birch_forest": "2025-03-26 18:32:14 +0000",
       "minecraft:river": "2025-03-26 18:30:41 +0000",
       "minecraft:birch_forest_hills": "2025-03-28 16:29:04 +0000",

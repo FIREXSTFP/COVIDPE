@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-31 19:07:30 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ace_of_spades": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:26:59 +0000"
@@ -1007,6 +1013,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-28 02:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-31 19:07:30 +0000"
     },
     "done": true
   },
