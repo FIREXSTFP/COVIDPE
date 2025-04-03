@@ -1641,6 +1641,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-03 22:45:05 +0000",
+      "minecraft:soul_sand_valley": "2025-04-03 22:50:07 +0000"
+    },
+    "done": false
+  },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gunpowder": "2025-03-26 17:54:33 +0000"
@@ -1806,6 +1813,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-28 00:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-03 22:45:05 +0000"
     },
     "done": true
   },
@@ -2527,6 +2540,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-03 22:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-01 23:21:26 +0000"
@@ -2824,6 +2843,12 @@
   "additionalguns:recipes/additionalguns/ssg08": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-03 22:46:50 +0000"
     },
     "done": true
   },
