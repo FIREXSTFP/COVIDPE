@@ -1124,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 23:00:10 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2025-03-26 17:54:33 +0000"
@@ -1367,6 +1373,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-26 16:02:53 +0000"
+    },
+    "done": true
+  },
+  "apocalypsenow:thesurvivor": {
+    "criteria": {
+      "thesurvivor": "2025-04-03 22:53:45 +0000"
     },
     "done": true
   },
@@ -1644,7 +1656,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-03 22:45:05 +0000",
-      "minecraft:soul_sand_valley": "2025-04-03 22:50:07 +0000"
+      "minecraft:soul_sand_valley": "2025-04-03 22:50:07 +0000",
+      "minecraft:basalt_deltas": "2025-04-03 22:57:27 +0000"
     },
     "done": false
   },
@@ -2456,6 +2469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-03 23:01:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-03-26 20:11:02 +0000"
@@ -2519,6 +2538,12 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 23:00:10 +0000"
     },
     "done": true
   },
