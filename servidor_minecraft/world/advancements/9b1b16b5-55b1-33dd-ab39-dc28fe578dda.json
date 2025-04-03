@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2025-04-02 00:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-30 20:59:00 +0000"
@@ -305,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-02 00:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -350,6 +368,12 @@
   "additionalguns:recipes/additionalguns/holo_scope": {
     "criteria": {
       "has_redstone": "2025-03-30 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -449,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-30 21:27:24 +0000"
@@ -464,6 +494,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-30 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -521,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2025-04-02 00:17:58 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/schwarzlose": {
     "criteria": {
       "has_oak_planks": "2025-03-30 20:58:53 +0000"
@@ -536,6 +578,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-03-30 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-02 00:16:29 +0000"
     },
     "done": true
   },
@@ -683,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-03-30 20:52:44 +0000"
@@ -713,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aug": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -722,6 +782,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-30 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -754,6 +820,12 @@
       "minecraft:zombie": "2025-03-30 22:00:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -788,6 +860,12 @@
   "additionalguns:recipes/additionalguns/9a91": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -863,9 +941,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-02 00:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-02 00:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-30 20:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -932,6 +1028,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/workbench": {
+    "criteria": {
+      "has_iron": "2025-04-02 00:27:09 +0000"
     },
     "done": true
   },
@@ -1283,9 +1385,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-30 21:33:52 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2025-04-02 00:27:09 +0000"
     },
     "done": true
   },
@@ -1349,9 +1463,18 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2025-04-02 00:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-30 20:51:26 +0000",
+      "minecraft:birch_forest": "2025-04-02 00:21:11 +0000",
+      "minecraft:dark_forest": "2025-04-02 00:48:28 +0000",
+      "minecraft:river": "2025-04-02 00:18:32 +0000",
       "minecraft:plains": "2025-03-30 20:59:54 +0000"
     },
     "done": false
@@ -1359,6 +1482,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -1446,6 +1575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-02 00:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
@@ -1500,9 +1635,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-02 00:35:07 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ravens_claw": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -1542,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-02 00:35:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-03-30 20:58:11 +0000"
@@ -1572,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-03-30 20:59:00 +0000"
@@ -1599,6 +1758,12 @@
   "additionalguns:recipes/additionalguns/ak105": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-04-02 00:27:44 +0000"
     },
     "done": true
   },

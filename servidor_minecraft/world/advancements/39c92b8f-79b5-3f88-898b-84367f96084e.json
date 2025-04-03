@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 02:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-30 20:34:57 +0000"
@@ -1459,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-02 00:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-28 17:49:20 +0000"
@@ -1546,6 +1558,12 @@
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gunpowder": "2025-03-28 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-02 02:15:01 +0000"
     },
     "done": true
   },
