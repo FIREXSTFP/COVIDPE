@@ -696,3 +696,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 [03Apr2025 22:24:13.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya esta abierto el nether
 [03Apr2025 22:26:15.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gxst8v7_2u8> adonde vas ??
 [03Apr2025 22:26:20.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gxst8v7_2u8> al portal
+[03Apr2025 22:26:23.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gxst8v7_2u8> ???
+[03Apr2025 22:26:25.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> a matar zombies
+[03Apr2025 22:28:11.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gxst8v7_2u8> covid y porq no ases su /kill a todas las entidadesa
+[03Apr2025 22:28:41.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> quieres que mate a las vacas y aldeanos que nos costo conseguir?
+[03Apr2025 22:28:50.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gxst8v7_2u8> a verdad
+[03Apr2025 22:29:25.068] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayerEntity['gxst8v7_2u8'/850, l='ServerLevel[world]', x=-403.70, y=11.00, z=-137.66], dimensionLocationPath overworld
+[03Apr2025 22:29:25.068] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['gxst8v7_2u8'/850, l='ServerLevel[world]', x=-403.70, y=11.00, z=-137.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@360]
+[03Apr2025 22:30:21.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7bc1eb0b
+[03Apr2025 22:30:21.085] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HarukoUzumaki[/127.240.237.37:58671] logged in with entity id 2330 at (-367.59561327178363, 66.42159999847412, -106.48641615338056)
+[03Apr2025 22:30:21.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HarukoUzumaki joined the game
+[03Apr2025 22:30:21.087] [Server thread/INFO] [tac/]: PENDING
+[03Apr2025 22:30:21.133] [Server thread/INFO] [Waila/]: Syncing config to HarukoUzumaki (39c92b8f-79b5-3f88-898b-84367f96084e)
+[03Apr2025 22:31:06.948] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6413adb7
+[03Apr2025 22:31:06.955] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crosx22[/127.40.148.187:48547] logged in with entity id 2703 at (-368.5128195033496, 42.0, -130.29642395833534)
+[03Apr2025 22:31:06.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crosx22 joined the game
+[03Apr2025 22:31:06.957] [Server thread/INFO] [tac/]: PENDING
+[03Apr2025 22:31:07.008] [Server thread/INFO] [Waila/]: Syncing config to Crosx22 (6f94edc6-0f08-31d8-9262-dfda30cb4fd7)
+[03Apr2025 22:31:22.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crosx22 is bleeding...
+[03Apr2025 22:31:49.965] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayerEntity['HarukoUzumaki'/2330, l='ServerLevel[world]', x=-372.29, y=66.50, z=-106.16], dimensionLocationPath overworld
+[03Apr2025 22:31:49.966] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['HarukoUzumaki'/2330, l='ServerLevel[world]', x=-372.29, y=66.50, z=-106.16] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@360, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@352]
+[03Apr2025 22:31:50.214] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['HarukoUzumaki'/2330, l='ServerLevel[world]', x=-372.41, y=66.00, z=-104.94]
+[03Apr2025 22:32:20.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crosx22 died because of Runner
+[03Apr2025 22:32:20.172] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['Crosx22'/2703, l='ServerLevel[world]', x=-385.34, y=42.00, z=-130.85]
+[03Apr2025 22:32:21.479] [Server thread/INFO] [tac/]: PENDING
+[03Apr2025 22:32:52.430] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/346, l='ServerLevel[world]', x=-372.38, y=42.49, z=-137.04] died, message: 'Librarian was annihilated by HarukoUzumaki'
+[03Apr2025 22:33:16.567] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['gxst8v7_2u8'/850, l='ServerLevel[world]', x=-387.70, y=42.00, z=-129.23]
+[03Apr2025 22:33:23.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HarukoUzumaki is bleeding...
+[03Apr2025 22:35:18.351] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/4396, l='ServerLevel[world]', x=-429.69, y=44.70, z=-89.64], dimensionLocationPath overworld
+[03Apr2025 22:35:18.351] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/4396, l='ServerLevel[world]', x=-429.69, y=44.70, z=-89.64] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@360]
+[03Apr2025 22:36:25.875] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HarukoUzumaki lost connection: Disconnected
+[03Apr2025 22:36:25.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HarukoUzumaki left the game
